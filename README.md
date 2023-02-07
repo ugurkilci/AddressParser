@@ -9,3 +9,5 @@ https://twitter.com/ugur2nd/status/1623078292734590976
 # Dökümantasyon
 
 Eğer siz de destek vermek isterseniz dili ayrı bir klasörde açıp farklı bir dosya ile yükleyebilirsiniz. Ben AddressParser.php yaptım ama siz başka isimlendirebilirsiniz. Ki isimlendirin çünkü karışmasın.
+
+Tweetler için için keyword veritabanı: https://docs.google.com/spreadsheets/d/1_w1akARJIKzCxMQnlv9ZObM7m-yXu_XJn-_SvjR6j74/edit#gid=0
