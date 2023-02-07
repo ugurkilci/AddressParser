@@ -5,3 +5,7 @@ PHP kullanarak yapacağım. Sistemi yazıldıktan sonra o algoritmayla başka di
 
 Aşama kaydettikçe bu tweet altında paylaşacağım. RT ederek başka insanlara ulaşmasını sağlayabilirsiniz.
 https://twitter.com/ugur2nd/status/1623078292734590976
+
+# Dökümantasyon
+
+Eğer siz de destek vermek isterseniz dili ayrı bir klasörde açıp farklı bir dosya ile yükleyebilirsiniz. Ben AddressParser.php yaptım ama siz başka isimlendirebilirsiniz. Ki isimlendirin çünkü karışmasın.
